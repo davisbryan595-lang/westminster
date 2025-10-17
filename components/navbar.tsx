@@ -13,12 +13,12 @@ export default function Navbar() {
           <Link href="/" className="flex items-center gap-2">
             <div className="w-12 h-12">
               <img
-                src="/top.jpg"
+                src="/top-removebg-preview.png"
                 alt="Westminster Logo"
                 className="w-full h-full object-contain"
               />
             </div>
-            <span className="hidden sm:inline font-bold text-lg text-foreground">Westminster</span>
+            
           </Link>
 
 
